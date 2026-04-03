@@ -1,70 +1,47 @@
-<div align="center">
+<div align="center" width="50">
 
-# Hi, I'm Ahmed Adel 👋
-### Python Developer | Problem Solver | Tech Enthusiast
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Automation+%26+Backend+Lover;Always+Learning+New+Things" alt="Typing SVG" />
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-<br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER) <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=blue&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=blue" />
+</details>
 
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Ahmed_Adel-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM) <br>
 </div>
 
----
+<hr></hr>
 
-## 👨‍💻 About Me
-
-- 🐍 I'm **Ahmed Adel**, a **Python Developer**
-- 💡 Interested in **Automation, Backend Development, Scripts, and Problem Solving**
-- 🚀 Currently improving my skills in **Python projects and real-world applications**
-- 🧠 I enjoy learning new technologies and building useful tools
-- 🎯 Goal: Become a stronger **Software Engineer** and build impactful projects
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-### **Python & Development Tools**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
-### **Operating Systems**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📌 What I Do
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```python
-class AhmedAdel:
-    def __init__(self):
-        self.role = "Python Developer"
-        self.skills = [
-            "Python",
-            "Automation",
-            "Backend Basics",
-            "Problem Solving",
-            "Scripting"
-        ]
-        self.tools = ["VS Code", "Git", "GitHub", "SQLite", "Linux"]
+# tools_I_use organized
 
-    def say_hi(self):
-        return "Thanks for visiting my profile 🚀"
-
-me = AhmedAdel()
-print(me.say_hi())
+class AboutMe:
+    myTools = {
+        "ProgrammingLanguages": {"Python", "JavaScript"},
+        "OtherLanguages": {"HTML", "CSS", "Bash", "Json", "Markdown"},
+        "Database": {"SQLite"},
+        "Editors": {"VSCode"},
+        "Platforms": {"GNU/Linux", "Windows"},
+        "OtherTools": {"Git", "GitHub", "Figma"}
+    }
