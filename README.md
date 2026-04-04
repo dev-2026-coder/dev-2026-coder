@@ -20,7 +20,7 @@
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![linkedin](https://www.linkedin.com/in/amir-hesham-b932073ba/opportunities/services/onboarding/)
-![Instgram](ttps://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-pink)
+![Instgram](ttps://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![Telegram](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Replit](https://replit.com/~)
