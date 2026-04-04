@@ -19,16 +19,19 @@
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![linkedin](https://www.linkedin.com/in/amir-hesham-b932073ba/opportunities/services/onboarding/)
-![Instgram](ttps://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![Telegram](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Replit](https://replit.com/~)
-![AI Tools](https://chat.deepseek.com/a/chat/s/55fb9fb4-2455-4526-8d71-a944af41299d)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Codex](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+[![Tools I use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)](#)
+[![separator](https://img.shields.io/badge/-%3A-orange)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hesham-b932073ba/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)](https://www.python.org/)
+[![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)](https://replit.com/~)
+[![AI Tools](https://img.shields.io/badge/AI%20Tools-111111?style=flat&logo=openai&logoColor=white)](https://chat.deepseek.com/a/chat/s/55fb9fb4-2455-4526-8d71-a944af41299d)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dev-2026-coder)
+
 
 
 ```dart
