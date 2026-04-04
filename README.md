@@ -10,25 +10,25 @@
 
 </details>
 
-![Totals Hits]()
-![Hits]()
-[![telegram badge]() <br>
+![Totals Hits](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Hits](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+[![telegram badge](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) <br>
 </div>
 
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![linkedin]()
-![Instgram]()
-![Telegram]()
+![linkedin](https://www.linkedin.com/in/amir-hesham-b932073ba/opportunities/services/onboarding/)
+![Instgram](https://www.instagram.com/)
+![Telegram](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Replit]()
-![AI Tools]()
+![Replit](https://replit.com/~)
+![AI Tools](https://chat.deepseek.com/a/chat/s/55fb9fb4-2455-4526-8d71-a944af41299d)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Codex]()
-![GitHub]()
+![Codex](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 
 ```dart
